@@ -1,0 +1,10 @@
+site_name: Test Kroki Backstage
+docs_dir: docs
+
+nav:
+  - Index: index.md
+
+plugins:
+  - techdocs-core
+  - kroki:
+      HttpMethod: POST
