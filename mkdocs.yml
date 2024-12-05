@@ -8,3 +8,4 @@ plugins:
   - techdocs-core
   - kroki:
       HttpMethod: POST
+      TagFormat: svg
